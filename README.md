@@ -10,3 +10,4 @@ If you need some help with any Android lib or feature, feel free to comment on m
 
 ## List of tutorials:
 
+* [ViewPagerTransforms Library – Animations for transforming ViewPager on Android Studio](https://bytedebugger.wordpress.com/2015/03/20/tutorial-viewpagertransforms-library-animations-for-transforming-viewpager-on-android-studio/)
