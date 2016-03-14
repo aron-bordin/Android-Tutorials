@@ -16,3 +16,4 @@ If you need some help with any Android lib or feature, feel free to comment on m
 * [[Tutorial] Flipboard BottomSheet on Android Studio](http://blog.rhesoft.com/2015/10/08/android-tutorial-flipboard-bottom-sheet/)
 * [[Tutorial] Android Process Button - Animated Buttons on Android Studio](http://blog.rhesoft.com/2015/12/29/tutorial-android-process-button-animated-buttons-on-android-studio/)
 * [[Tutorial] Android Material Icon Library](http://blog.rhesoft.com/2015/12/29/tutorial-android-material-icon-library/)
+* [[Tutorial] Developing Android Background Services](http://blog.rhesoft.com/2016/03/14/tutorial-developing-android-background-services-android-studio/)
